@@ -27,8 +27,7 @@ A sophisticated Flutter video player application featuring Picture-in-Picture (P
 ## Setup and Installation
 
 1. Clone the repository:
-   git clone <https://github.com/pravallika0620/Flutter-Video-Player-with-Android-Picture-in-Picture-PiP-Mode>
-   cd pip_video_player
+   git clone <https://github.com/pravallika0620/Flutter-Video-Player-with-Android-Picture-in-Picture-PiP-Mode
 
 2. Install Dependencies:
    flutter pub get
@@ -70,4 +69,5 @@ Documented in .env.example:
 
 - MethodChannel: Uses com.fluttercast.pip/controller to communicate with Android's PictureInPictureParams.
 - Persistence: Implements path_provider for file-based JSON storage and shared_preferences for playback state.
+
 - UI: Designed with Material 3 and responsive layouts to prevent overflows in PiP mode.
